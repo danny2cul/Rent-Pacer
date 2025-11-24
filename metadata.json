@@ -1,0 +1,5 @@
+{
+  "name": "RentPacer",
+  "description": "A smart rent escrow simulator that lets you pay in advance and automatically tracks weekly releases to your roommate. Includes AI-powered financial insights.",
+  "requestFramePermissions": []
+}
